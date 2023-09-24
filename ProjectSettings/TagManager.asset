@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ABC/WeaponTip
+  - ABC/WeaponInitiation
+  - ABC/WeaponBase
+  - ABC/BackLeftDiagonalWeaponSheath
+  - ABC/BackRightWeaponSheath
+  - ABC/BackLeftWeaponSheath
+  - ABC/BackCentreWeaponSheath
+  - ABC/BackRightDiagonalWeaponSheath
+  - ABC/RightWeaponHolder
+  - ABC/RightWeaponSheath
+  - ABC/LeftWeaponSheath
+  - ABC/RightWeaponHolster
+  - ABC/LeftWeaponHolster
+  - ABC/LeftWeaponHolder
+  - GunInitiation
+  - ABC/RightFoot
+  - ABC/LeftFoot
+  - ABC/Head
+  - ABC/LeftHand
+  - ABC/RightHand
+  - SpatialCrack
+  - ABC/WeaponIK
+  - ABC/AdditionalWeaponInitiation
+  - CinemachineTarget
+  - Monster
+  - MonsterSoul
+  - RangeMonster
+  - SupportMonster
+  - MeleeMonster
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Terrain
+  - Water
+  - UI
+  - Player
+  - Step
+  - Monster
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
